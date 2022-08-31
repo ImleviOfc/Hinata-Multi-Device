@@ -9,7 +9,7 @@ let name = await conn.getName(who)
 let tqto = `*${htki} SCRIPT ${htka}*
 
 *Wudysoft:*
-https://github.com/AyGemuy
+Pribadi cuy 💀
 `
 conn.sendButton(m.chat, tqto, wm, await(await fetch(logo)).buffer(), [['🎀 Menu', '/menu']], m, { fileLength: fsizedoc, seconds: fsizedoc, contextInfo: {
           externalAdReply :{
